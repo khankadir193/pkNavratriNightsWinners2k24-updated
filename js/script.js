@@ -1,38 +1,38 @@
 const userRanking = [
    {
-      userId: 611128465,
-      amount: 105000,
-      userName: "Xpress king"
+      userId: 643268125,
+      amount: 200800,
+      userName: "Missing someone 🥰"
+   },
+   {
+      userId: 652933663,
+      amount: 175000,
+      userName: ' surjeetmis09'
+   },
+   {
+      userId: 615889037,
+      amount: 140650,
+      userName: 'PsychO❤️'
    },
    {
       userId: 586054133,
-      amount: 100000,
-      userName: '💞S᭄ꦿ 𝑺𝑲𝒀 🛸'
+      amount: 75000,
+      userName: "💞S᭄ꦿ 𝑺𝑲𝒀 🛸"
    },
    {
-      userId: 645547616,
-      amount: 71000,
-      userName: '🎯Jeet📈'
-   },
-   {
-      userId: 616389255,
-      amount: 50020,
-      userName: "👑ĐⱤɄ₲ ₮ⱧɆ ₭ł₦₲👑🖤"
-   },
-   {
-      userId: 636266686,
+      userId: 573725922,
       amount: 50000,
-      userName: "Dissassterrr"
+      userName: "༒͢🕊💙B𝕒b͓̽u͎"
    },
    {
-      userId: 634222717,
-      amount: 32000,
-      userName: "🦋 🖇️Honeɏ♡┊🌸"
+      userId: 643861769,
+      amount: 49950,
+      userName: "🫢RO🤫HaN🫣"
    },
    {
-      userId: 593610020,
-      amount: 26400,
-      userName: "♡𝕶𝖗𝖎𝖘𝖍♡"
+      userId: 587525793,
+      amount: 48000,
+      userName: " 🅳🅰️🆁🅿️🅰️🅽        "
    },
 ]
 const talentDanceRanking = [
