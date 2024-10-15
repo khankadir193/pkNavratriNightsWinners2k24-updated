@@ -37,14 +37,14 @@ const userRanking = [
 ]
 const talentDanceRanking = [
    {
-      userId: 583520006,
-      amount: 105000,
-      userName: 'Yashi💋💋❤️❤️'
+      userId: 622736387,
+      amount: 1251000,
+      userName: 'Boss lady 05'
    },
    {
-      userId: 630758906,
-      amount: 82810,
-      userName: 'shweta gupta 🦋'
+      userId: 559684988,
+      amount: 490650,
+      userName: '🎀❤️AKEERA❤️🎀'
    },
    {
       userId: 614097927,
