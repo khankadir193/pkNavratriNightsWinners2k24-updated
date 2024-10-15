@@ -37,29 +37,39 @@ const userRanking = [
 ]
 const talentDanceRanking = [
    {
-      userId: 622736387,
-      amount: 1251000,
-      userName: 'Boss lady 05'
+      userId: 592450833,
+      amount: 273800,
+      userName: 'Teddy Bear'
    },
    {
-      userId: 559684988,
-      amount: 490650,
-      userName: '🎀❤️AKEERA❤️🎀'
+      userId: 654694393,
+      amount: 52000,
+      userName: '꧁༺ʟʊƈӄռօաɨ զʊɛɛռ༻꧂'
    },
    {
-      userId: 614097927,
-      amount: 62430,
-      userName: '🦢₴᭄ꦿ 𝙈𝙊𝙉𝘼🍡'
+      userId: 635752070,
+      amount: 50720,
+      userName: '—͟͞͞★ š𝐨ꫛɨ..❤️'
    },
    {
-      userId: 625793134,
-      amount: 60860,
-      userName: '꧁𓊈𒆜🅼🆄🆁🅻🅸𒆜𓊉꧂'
+      userId: 628264282,
+      amount: 40610,
+      userName: '🎸Siya Singh 🎸🙂'
    },
    {
-      userId: 561580330,
-      amount: 300,
-      userName: '🎵 ⃢🎸ᴠɪʀᴀᴊ™?✔️'
+      userId: 648464501,
+      amount: 20710,
+      userName: '🌈 I S H A N A 🐼'
+   },   
+   {
+      userId: 591620682,
+      amount: 20000,
+      userName: '👰🦋OℓᎥviα?💕'
+   },
+   {
+      userId: 647672919,
+      amount: 12070,
+      userName: ' 💓Monika💓 Dancer 💓'
    }
 ]
 const talentSingingRanking = [
